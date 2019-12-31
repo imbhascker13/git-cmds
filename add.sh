@@ -1,0 +1,2 @@
+echo "enter two numbers"
+
